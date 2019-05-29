@@ -142,7 +142,7 @@ public class MyFrame extends JFrame {
 
                 @Override
                 public void actionPerformed(ActionEvent e) {
-                    JOptionPane.showMessageDialog(null, "" + "DATE: 2019-5-28\n"+"NAME: 韩传兵\n"+"NJUID: 161220044" , "About", JOptionPane.PLAIN_MESSAGE);
+                    JOptionPane.showMessageDialog(null, "" + "DATE: 2019-5-28\n"+"NAME: xxx\n"+"NJUID: xxx" , "About", JOptionPane.PLAIN_MESSAGE);
 
                 }
             });
